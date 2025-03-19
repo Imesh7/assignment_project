@@ -1,14 +1,14 @@
 # Assignment Project
 
 ## Dependencies
-  auto_route: ^9.3.0+1 
-  equatable: 
-  flutter_bloc: 
-  get_it: 
-  dio:
-  firebase_core: ^3.12.1
-  cloud_firestore: ^5.6.5
-  cached_network_image: ^3.4.1
+  - auto_route: ^9.3.0+1 
+  - equatable: 
+  - flutter_bloc: 
+  - get_it: 
+  - dio:
+  - firebase_core: ^3.12.1
+  - cloud_firestore: ^5.6.5
+  - cached_network_image: ^3.4.1
 
 
 ## Getting Started
