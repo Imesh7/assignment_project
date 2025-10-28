@@ -11,7 +11,7 @@
   - cached_network_image: ^3.4.1
 
 
-## Getting Started
+## Screenshots
 
 
 <img src="https://github.com/user-attachments/assets/c98a578c-3494-4e25-aeb6-6bc5470dc047" width="150" height="280">
